@@ -1,2 +1,2 @@
 # CommunityHousingProject
-Data analysis and visualization for the PhD-Community Initiative
+Data analysis and visualization for the Queen's University PhD-Community Initiative
